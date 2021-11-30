@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InterviewRounds/static/css/main.37e8fdd3.chunk.css",
+    "main.js": "/InterviewRounds/static/js/main.279635a8.chunk.js",
+    "main.js.map": "/InterviewRounds/static/js/main.279635a8.chunk.js.map",
+    "runtime-main.js": "/InterviewRounds/static/js/runtime-main.078dff43.js",
+    "runtime-main.js.map": "/InterviewRounds/static/js/runtime-main.078dff43.js.map",
+    "static/js/2.d0317fa3.chunk.js": "/InterviewRounds/static/js/2.d0317fa3.chunk.js",
+    "static/js/2.d0317fa3.chunk.js.map": "/InterviewRounds/static/js/2.d0317fa3.chunk.js.map",
+    "static/js/3.8bbbe2aa.chunk.js": "/InterviewRounds/static/js/3.8bbbe2aa.chunk.js",
+    "static/js/3.8bbbe2aa.chunk.js.map": "/InterviewRounds/static/js/3.8bbbe2aa.chunk.js.map",
+    "index.html": "/InterviewRounds/index.html",
+    "static/css/main.37e8fdd3.chunk.css.map": "/InterviewRounds/static/css/main.37e8fdd3.chunk.css.map",
+    "static/js/2.d0317fa3.chunk.js.LICENSE.txt": "/InterviewRounds/static/js/2.d0317fa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.078dff43.js",
+    "static/js/2.d0317fa3.chunk.js",
+    "static/css/main.37e8fdd3.chunk.css",
+    "static/js/main.279635a8.chunk.js"
+  ]
+}
