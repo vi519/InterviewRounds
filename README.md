@@ -1,7 +1,7 @@
 # Interview Round MERN WEB-Application (Mobile Responsive)
 
 # Introduction 
-Interview Round React App which is a  Web Application having frontend and backend to get the interview data from and the user and help others in there upcomming interview  is designed and built for enhancing the interview experience of each indivisual out there
+Interview Round React App which is a Web Application having frontend and backend to get the interview data from and the user and help others in there upcoming interview is designed and built for enhancing the interview experience of each individual out there
 
 # Usage
 This WEB-application helps people to see the interview experience of other people.
