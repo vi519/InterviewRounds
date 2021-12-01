@@ -8,7 +8,7 @@ This WEB-application helps people to see the interview experience of other peopl
 
 # Technology
 ```
-Tech Stack: React Js, Javascript, Node Js, Express Js, MongoDB,
+Tech Stack: React Js, Javascript, Node Js, Express Js, MongoDB
 ```
 # Screen 1
 ![image](https://user-images.githubusercontent.com/68097369/144189357-1455a61d-a842-40b4-85a3-81aa1fb29c9d.png)
