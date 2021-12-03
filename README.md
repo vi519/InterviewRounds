@@ -11,24 +11,25 @@ This WEB-application helps people to see the interview experience of other peopl
 Tech Stack: React Js, Javascript, Node Js, Express Js, MongoDB
 ```
 # Screen 1
-![image](https://user-images.githubusercontent.com/68097369/144481707-8f37695e-0116-4334-8f2d-447f8dd66d30.png)
+![image](https://user-images.githubusercontent.com/68097369/144578041-a7e7d260-2a2d-49d2-a941-0627eb40efa6.png)
+
 
 
 # Screen 2
+![image](https://user-images.githubusercontent.com/68097369/144578531-cc685af0-6534-486a-90a8-d7d5dbbd61ee.png)
 
-![image](https://user-images.githubusercontent.com/68097369/144482005-991871c9-644c-4051-b51d-b31518d50913.png)
 
 
 
 # Screen 3
 
-![image](https://user-images.githubusercontent.com/68097369/144482076-95fa3e76-049d-41ed-bf75-ca9e175a2a92.png)
+![image](https://user-images.githubusercontent.com/68097369/144578244-82b86b53-f212-4201-b506-140fa50113c1.png)
 
 
 
 # Screen 4
 
-![image](https://user-images.githubusercontent.com/68097369/144482157-61d9b381-7c7d-45e0-b125-418cc761b255.png)
+![image](https://user-images.githubusercontent.com/68097369/144578307-cd690b47-4433-42d7-af8f-243d8a981e3b.png)
 
 
 
